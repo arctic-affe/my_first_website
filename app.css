@@ -1,0 +1,26 @@
+/* Grundlegendes Styling für den Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Container zentriert den Inhalt */
+  .container {
+    text-align: center;
+    margin-top: 20vh;
+  }
+  
+  /* Überschrift */
+  h1 {
+    font-size: 3rem;
+    color: #007acc;
+  }
+  
+  /* Textabsatz */
+  p {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
