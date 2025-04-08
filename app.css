@@ -1,11 +1,7 @@
 /* Grundlegendes Styling für den Body */
 body {
     font-family: Arial, sans-serif;
-<<<<<<< Updated upstream
-    background-color: #f0f4f8;
-=======
-    background-color: #e678e6;
->>>>>>> Stashed changes
+    background-color: #eea8e5;
     margin: 0;
     padding: 0;
   }
